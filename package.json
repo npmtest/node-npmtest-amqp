@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [amqp (v0.2.6)](https://github.com/postwait/node-amqp#readme) [![npm package](https://img.shields.io/npm/v/npmtest-amqp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-amqp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-amqp.svg)](https://travis-ci.org/npmtest/node-npmtest-amqp)",
+    "description": "#### basic test coverage for  [amqp (v0.2.6)](https://github.com/postwait/node-amqp#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-amqp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-amqp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-amqp.svg)](https://travis-ci.org/npmtest/node-npmtest-amqp)",
     "devDependencies": {
         "amqp": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

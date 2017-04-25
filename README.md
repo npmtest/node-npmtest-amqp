@@ -1,4 +1,7 @@
-# test coverage for  [amqp (v0.2.6)](https://github.com/postwait/node-amqp#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-amqp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-amqp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-amqp.svg)](https://travis-ci.org/npmtest/node-npmtest-amqp)
+# npmtest-amqp
+
+#### basic test coverage for  [amqp (v0.2.6)](https://github.com/postwait/node-amqp#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-amqp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-amqp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-amqp.svg)](https://travis-ci.org/npmtest/node-npmtest-amqp)
+
 #### AMQP driver for node
 
 [![NPM](https://nodei.co/npm/amqp.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/amqp)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-amqp/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-amqp/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-amqp/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-amqp/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-amqp/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-amqp/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-amqp/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-amqp/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-amqp/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-amqp/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-amqp/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-amqp/build/coverage.html/index.html)
 
@@ -127,7 +130,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "0.2.6"
+    "version": "0.2.6",
+    "bin": {}
 }
 ```
 
